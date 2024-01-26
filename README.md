@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manitha Ayanaja</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img src="[https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)" width="250" align="right" >
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3-RD16Qmq3oN4y_AcOpOTU&ust=1706350186227000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICDyvfn-oMDFQAAAAAdAAAAABAJ" width="250" align="right" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maniiaya&label=Profile%20views&color=0e75b6&style=flat" alt="maniiaya" /> </p>
 
