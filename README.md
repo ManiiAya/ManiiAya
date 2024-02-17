@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manitha Ayanaja</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="250" align="right" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maniiaya&label=Profile%20views&color=0e75b6&style=flat" alt="maniiaya" /> </p>
