@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CS50 Project<br>👯 I’m looking to collaborate on IT projects<br>🌱 I’m currently learning Python<br>💬 Ask me about Anything<br>⚡ Fun fact is not funny at all
+🔭 I’m currently working on CS50 Project<br>👯 I’m looking to collaborate on IT projects<br>🌱 I’m currently learning Python and C.<br>💬 Ask me about Anything<br>⚡ Fun fact is not funny at all
 
 
 ## 🌐 Socials:
