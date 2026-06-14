@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on CS50 Project<br>👯 I’m looking to collaborate on IT projects<br>🌱 I’m currently learning Python and C.<br>💬 Ask me about Anything<br>⚡ Fun fact is not funny at all
+Electronic and Telecommunication Engineering undergraduate specializing in the intersection of hardware design and software development. My focus is on electronics, bio-medical applications, robotics, and integrating machine learning with physical hardware.
+
+### Technical Skills
+* **Programming:** C/C++, Python
+* **Hardware & Electronics:** PCB Design, Analog Circuitry, Altium Designer, LTspice
+* **Modeling & Simulation:** SolidWorks, Webots, ArduPilot
+
 
 
 ## 🌐 Socials:
