@@ -1,5 +1,5 @@
 # 💫 About Me:
-Electronic and Telecommunication Engineering undergraduate specializing in the intersection of hardware design and software development. My focus is on electronics, bio-medical applications, robotics, and integrating machine learning with physical hardware.
+Electronic and Telecommunication Engineering undergraduate interested in the intersection of hardware design and software development. My focus is on electronics, bio-medical applications, robotics, and integrating machine learning with physical hardware.
 
 ### Technical Skills
 * **Programming:** C/C++, Python
